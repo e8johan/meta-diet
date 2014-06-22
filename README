@@ -1,0 +1,8 @@
+This is a meta-layer for the Yocto blog series here 
+http://www.thelins.se/johan/blog/category/yocto/ .
+
+Patches
+=======
+
+Please submit any patches against the diet layer as pull requests to the github
+page: https://github.com/e8johan/meta-diet
