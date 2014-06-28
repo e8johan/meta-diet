@@ -1,1 +1,1 @@
-PACKAGECONFIG = "systemd"
+PACKAGECONFIG_remove = "x11"
